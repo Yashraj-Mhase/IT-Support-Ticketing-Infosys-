@@ -1,71 +1,81 @@
-IT Support Ticketing – Data Analysis Project
+# IT Support Ticketing – Data Analysis Project #
 
 Infosys Springboard Internship 2026
+1️⃣ Problem Statement
 
-📊 Project Overview
+The objective of this project is to analyze IT support ticket data to identify key performance trends, optimize resolution times, and enhance overall service efficiency using data analytics and visualization.
 
-The IT Support Ticketing – Data Analysis Project is developed as part of the Infosys Springboard Internship 2026. This project focuses on analyzing IT support ticket data to gain meaningful insights into issue trends, resolution efficiency, and overall IT service performance.
+The project aims to uncover patterns in customer requests, technical issues, and support performance metrics to recommend improvements in workflow efficiency and resource allocation for IT support teams.
 
-Using Python for data cleaning and analysis and Power BI for interactive visualization, the project helps in understanding patterns in IT support requests and identifying areas for process improvement.
+2️⃣ Project Description
 
-🎯 Purpose of the Project
+Supportlytics is a data visualization and analytics project focused on IT support operations. The project analyzes historical IT support ticket data to understand ticket behavior across priorities, categories, countries, and clusters.
 
-The main objectives of this project are to:
+The analysis involves:
 
-Analyze IT support ticket data to uncover trends and patterns
+Data acquisition and preprocessing
 
-Measure key performance indicators (KPIs) such as resolution time and ticket volume
+Feature engineering to derive performance metrics
 
-Support data-driven decision-making for IT service management
+Exploratory data analysis (EDA)
 
-Improve efficiency and responsiveness of IT support operations
+Similarity and cluster-based analysis
 
-🛠️ Use and Applications
+Visualization through dashboards and reports
 
-Identify frequently reported IT issues
+The final outcome is a data-driven performance dashboard and analytical report that provides actionable insights to improve IT support effectiveness.
 
-Analyze ticket resolution times and workload distribution
+3️⃣ Key Performance Indicators (KPIs)
 
-Monitor performance of IT support teams
+The following KPIs are used to evaluate IT support performance:
 
-Assist management in optimizing resource allocation
+Average Resolution Time
 
-Provide actionable insights through dashboards and reports
+Ticket Volume by Priority
 
-🚀 Tools & Technologies Used
+Ticket Distribution by Category
 
-Python: Data cleaning, preprocessing, and exploratory data analysis
+Resolution Efficiency
 
-Power BI: Data visualization and interactive dashboards
+Cluster Similarity Score
 
-Libraries: Pandas, NumPy, Matplotlib / Seaborn
+High-Priority Unresolved Tickets
 
-Version Control: Git & GitHub
+Top Performing Regions / Countries
 
-📈 Key Features
+Cluster-wise Resolution Rate
 
-Cleaned and structured IT support ticket dataset
+4️⃣ Dashboards
 
-KPI analysis (ticket volume, resolution time, issue categories)
+📊 Dashboards Created Using Power BI
 
-Interactive Power BI dashboards for easy interpretation
+The dashboards visualize:
 
-Insightful visual reports for stakeholders
+Ticket distribution by category, priority, and country
 
-⏳ Internship Duration
+Resolution efficiency across priorities
 
-Duration: 2 Months
+Geographic trends using maps
+
+Performance comparison across regions and teams
+
+👉 Upload Power BI dashboard files (.pbix) and screenshots in this section of the repository.
+
+5️⃣ Key Insights
+Yet To Analyse
+
+6️⃣ Tools Used (with Purpose)
+Tool / Technology	Usage
+Python	Data cleaning, preprocessing, feature engineering, EDA
+Pandas & NumPy	Data handling and transformations
+Matplotlib & Seaborn	Exploratory data visualizations
+Plotly	Interactive charts and analysis
+Power BI	Dashboard creation and KPI visualization
+Jupyter Notebook	Analysis and documentation
+Git & GitHub	Version control and project hosting
+
+📌 Internship Details
 
 Program: Infosys Springboard Internship 2026
 
-📚 Learning Outcomes
-
-Practical experience in data analysis and visualization
-
-Hands-on use of Python for real-world datasets
-
-Creating professional dashboards using Power BI
-
-Understanding IT service management from a data perspective
-
-Applying analytical thinking to solve business problems
+Duration: 2 Months
