@@ -3,32 +3,31 @@
 Infosys Springboard Internship 2026
 
 # Dataset Description : -- 
-Contents -- 
+Contents (Key Attributes Only)
 
-ticket_id – Unique identifier for each support ticket
+Ticket_ID – Unique identifier for each support ticket
 
-day_of_week – Day when the ticket was raised
+Day_of_Week – Day when the ticket was raised
 
-company_size – Size category of the customer organization
+Company_Size – Size category of the customer organization
 
-industry – Industry to which the customer belongs
+Industry – Industry to which the customer belongs
 
-customer_tier – Customer classification (e.g., premium, standard)
+Customer_Tier – Customer classification (e.g., Premium, Standard)
 
-region – Geographic region of the customer
+Region – Geographic region of the customer
 
-past_30d_tickets – Number of tickets raised in the last 30 days
+Past_30D_Tickets – Number of tickets raised in the last 30 days
 
-product_area – Product or service area related to the issue
+Product_Area – Product or service area related to the issue
 
-customers_affected – Number of users impacted
+Customers_Affected – Number of users impacted
 
-downtime_min – Downtime duration in minutes
+Downtime_Min – Downtime duration in minutes
 
-customer_sentiment – Sentiment level of the customer
+Customer_Sentiment – Sentiment level of the customer
 
-priority – Priority level of the support ticket
-
+Priority – Priority level of the support ticket
 
 # Tool and technlogy used - 
 data cleaning - Pyhton , Power Query
