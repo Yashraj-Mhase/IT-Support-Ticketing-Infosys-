@@ -1,7 +1,7 @@
 ─────────────────────────────────────────────────────────────────────────────────────────
-### Optimizing IT Support Team Performance Using Analytics
+**Optimizing IT Support Team Performance Using Analytics**
 ─────────────────────────────────────────────────────────────────────────────────────────
-### 📋 Table of Contents
+**📋 Table of Contents**
 - Project Overview
 - Problem Statement
 - Dataset Description
@@ -12,17 +12,17 @@
 - Conclusion
 
 
-### 1️⃣ Project Overview 
+**1️⃣ Project Overview** 
 ─────────────────────────────────────────────────────────────────────────────────────────
 This project focuses on analyzing IT support ticket data to evaluate and improve the performance of an IT support team. By using data analytics techniques, the project aims to understand ticket patterns, measure team efficiency, and provide data-driven recommendations to enhance service quality and response times.
 
 
-### 2️⃣ Problem statement
+ **2️⃣ Problem statement**
 ─────────────────────────────────────────────────────────────────────────────────────────
 The objective of this project is to analyze IT support ticket data to identify key performancetrends, optimize resolution times, and enhance service efficiency through data analysis andvisualization.The goal is to uncover patterns in customer requests, technical issues, and support performancemetrics to recommend improvements in workflow and resource allocation.
 
 
-### 3️⃣ Dataset Description (Key Attributes Only) :
+**3️⃣ Dataset Description (Key Attributes Only) :**
 ─────────────────────────────────────────────────────────────────────────────────────────
 - Ticket_ID – Unique identifier for each support ticket
 - Day_of_Week – Day when the ticket was raised
@@ -37,22 +37,22 @@ The objective of this project is to analyze IT support ticket data to identify k
 - Customer_Sentiment – Sentiment level of the customer
 - Priority – Priority level of the support ticket
 
-### 4️⃣ Analysis Steps Followed
+**4️⃣ Analysis Steps Followed**
 ─────────────────────────────────────────────────────────────────────────────────────────
 - Performed data cleaning and preprocessing to ensure data quality and consistency.
 - Identified and handled missing, null, and inconsistent values appropriately.
 - Removed unnecessary white spaces and special characters to standardize textual data.
 - Conducted Exploratory Data Analysis (EDA) to uncover patterns, trends, and insights.
 
-### 5️⃣ Dashboard Details 
+**5️⃣ Dashboard Details**
 ───────────────────────────────────────────────────────────────────────────────────────── 
 To be updated
 
-### 6️⃣ Key Insights
+**6️⃣ Key Insights**
 ───────────────────────────────────────────────────────────────────────────────────────── 
 To be updated
 
-### 7️⃣ Tools and Technology Used 
+**7️⃣ Tools and Technology Used**
 ─────────────────────────────────────────────────────────────────────────────────────────
 - Excel : Intial data inspection
 - Python : Used for data cleaning and Preprocessing
@@ -61,6 +61,6 @@ To be updated
 - Visualization - Power Bi Visuals and Graphs
 - Power Query - Used For More Cleaning and Preprocessing
 
-### 8️⃣ Conclusion
+**8️⃣ Conclusion**
 ─────────────────────────────────────────────────────────────────────────────────────────
 
