@@ -50,17 +50,21 @@ The objective of this project is to analyze IT support ticket data to identify k
 - Removed unnecessary white spaces and special characters to standardize textual data.
 - Conducted Exploratory Data Analysis (EDA) to uncover patterns, trends, and insights.
 <br>
+<br>
 
 
 **5️⃣ Dashboard Details**
 ───────────────────────────────────────────────────────────────────────────────────────── 
 To be updated
 <br>
+<br>
+
 
 
 **6️⃣ Key Insights**
 ───────────────────────────────────────────────────────────────────────────────────────── 
 To be updated
+<br>
 <br>
 
 
@@ -73,7 +77,6 @@ To be updated
 - Visualization - Power Bi Visuals and Graphs
 - Power Query - Used For More Cleaning and Preprocessing
 <br>
-
 
 **8️⃣ Conclusion**
 ─────────────────────────────────────────────────────────────────────────────────────────
