@@ -12,14 +12,15 @@
 - Conclusion
 
 
-**1️⃣ Project Overview** 
+**1️⃣ Project Overview**  
 ─────────────────────────────────────────────────────────────────────────────────────────
 This project focuses on analyzing IT support ticket data to evaluate and improve the performance of an IT support team. By using data analytics techniques, the project aims to understand ticket patterns, measure team efficiency, and provide data-driven recommendations to enhance service quality and response times.
+<br>
 
-
- **2️⃣ Problem statement**
+**2️⃣ Problem Statement**  
 ─────────────────────────────────────────────────────────────────────────────────────────
-The objective of this project is to analyze IT support ticket data to identify key performancetrends, optimize resolution times, and enhance service efficiency through data analysis andvisualization.The goal is to uncover patterns in customer requests, technical issues, and support performancemetrics to recommend improvements in workflow and resource allocation.
+The objective of this project is to analyze IT support ticket data to identify key performance trends, optimize resolution times, and enhance service efficiency through data analysis and visualization.
+<br>
 
 
 **3️⃣ Dataset Description (Key Attributes Only) :**
@@ -36,6 +37,8 @@ The objective of this project is to analyze IT support ticket data to identify k
 - Downtime_Min – Downtime duration in minutes
 - Customer_Sentiment – Sentiment level of the customer
 - Priority – Priority level of the support ticket
+<br>
+
 
 **4️⃣ Analysis Steps Followed**
 ─────────────────────────────────────────────────────────────────────────────────────────
@@ -43,14 +46,20 @@ The objective of this project is to analyze IT support ticket data to identify k
 - Identified and handled missing, null, and inconsistent values appropriately.
 - Removed unnecessary white spaces and special characters to standardize textual data.
 - Conducted Exploratory Data Analysis (EDA) to uncover patterns, trends, and insights.
+<br>
+
 
 **5️⃣ Dashboard Details**
 ───────────────────────────────────────────────────────────────────────────────────────── 
 To be updated
+<br>
+
 
 **6️⃣ Key Insights**
 ───────────────────────────────────────────────────────────────────────────────────────── 
 To be updated
+<br>
+
 
 **7️⃣ Tools and Technology Used**
 ─────────────────────────────────────────────────────────────────────────────────────────
@@ -60,7 +69,11 @@ To be updated
 - Version Control : Github
 - Visualization - Power Bi Visuals and Graphs
 - Power Query - Used For More Cleaning and Preprocessing
+<br>
+
 
 **8️⃣ Conclusion**
 ─────────────────────────────────────────────────────────────────────────────────────────
+To be updated
+<br>
 
