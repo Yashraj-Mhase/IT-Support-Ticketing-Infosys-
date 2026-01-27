@@ -14,11 +14,13 @@
 ### 1️⃣ Project Overview 
 ---
 This project focuses on analyzing IT support ticket data to evaluate and improve the performance of an IT support team. By using data analytics techniques, the project aims to understand ticket patterns, measure team efficiency, and provide data-driven recommendations to enhance service quality and response times.
+
 ---
 
 ### 2️⃣ Problem statement
 ---
 The objective of this project is to analyze IT support ticket data to identify key performancetrends, optimize resolution times, and enhance service efficiency through data analysis andvisualization.The goal is to uncover patterns in customer requests, technical issues, and support performancemetrics to recommend improvements in workflow and resource allocation.
+
 ---
 
 ### 3️⃣ Dataset Description (Key Attributes Only) :
