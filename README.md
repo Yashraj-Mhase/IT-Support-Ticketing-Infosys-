@@ -11,15 +11,18 @@
 - Tools and Technology Used 
 - Conclusion
 
+<br>
 
 **1️⃣ Project Overview**  
 ─────────────────────────────────────────────────────────────────────────────────────────
 This project focuses on analyzing IT support ticket data to evaluate and improve the performance of an IT support team. By using data analytics techniques, the project aims to understand ticket patterns, measure team efficiency, and provide data-driven recommendations to enhance service quality and response times.
+
 <br>
 
 **2️⃣ Problem Statement**  
 ─────────────────────────────────────────────────────────────────────────────────────────
 The objective of this project is to analyze IT support ticket data to identify key performance trends, optimize resolution times, and enhance service efficiency through data analysis and visualization.
+
 <br>
 
 
