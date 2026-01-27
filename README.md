@@ -2,27 +2,37 @@
 
 Infosys Springboard Internship 2026
 
-Dataset Description : -- 
-The dataset includes the following attributes:
+# Dataset Description : -- 
+Contents (Key Attributes Only)
 
-The dataset includes the following attributes:
+ticket_id – Unique identifier for each support ticket
 
-CustomerID – Unique identifier for each customer
+day_of_week – Day when the ticket was raised
 
-First_Name, Last_Name – Customer name details
+company_size – Size category of the customer organization
 
-Phone_Number – Contact number (stored in varying formats)
+industry – Industry to which the customer belongs
 
-Address – Customer address information
+customer_tier – Customer classification (e.g., premium, standard)
 
-Paying Customer – Indicates whether the customer is a paying customer (Yes/No/Y/N)
+region – Geographic region of the customer
 
-Do_Not_Contact – Specifies if the customer should not be contacted
+past_30d_tickets – Number of tickets raised in the last 30 days
 
-Not_Useful_Column – Boolean column included for data cleaning practice
+product_area – Product or service area related to the issue
+
+customers_affected – Number of users impacted
+
+downtime_min – Downtime duration in minutes
+
+customer_sentiment – Sentiment level of the customer
+
+priority – Priority level of the support ticket
 
 
-Tool and technlogy used - 
-data cleaning - Pyhton 
+# Tool and technlogy used - 
+data cleaning - Pyhton , Power Query
+
 Visualization - Power Bi 
+
 Version Control - Github 
