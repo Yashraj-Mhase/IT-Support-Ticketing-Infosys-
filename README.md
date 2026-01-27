@@ -3,7 +3,7 @@
 Infosys Springboard Internship 2026
 
 # Dataset Description : -- 
-Contents (Key Attributes Only)
+Contents -- 
 
 ticket_id – Unique identifier for each support ticket
 
