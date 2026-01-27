@@ -1,23 +1,24 @@
-### IT Support Ticketing – Data Analysis Project
+### Optimizing IT Support Team Performance Using Analytics
 ---
+### 📋 Table of Contents
+-1.Project Overview
+-2.Problem Statement
+-3.Dataset Description
+-4.Analysis Steps Followed
+-5.Dashboards Details
+-6.Key Insights
+-7.Tools and Technology Used 
+-8.Conclusion
 
-Infosys Springboard Internship 2026
-
-### 📌 Project Overview 
+### 1️⃣ Project Overview 
 ---
 This project focuses on analyzing IT support ticket data to evaluate and improve the performance of an IT support team. By using data analytics techniques, the project aims to understand ticket patterns, measure team efficiency, and provide data-driven recommendations to enhance service quality and response times.
 
-### ❔ Problem statement
+### 2️⃣ Problem statement
 ---
-IT support teams handle a large volume of tickets with varying priorities and complexities. Without proper analysis, it becomes difficult to:
+The objective of this project is to analyze IT support ticket data to identify key performancetrends, optimize resolution times, and enhance service efficiency through data analysis andvisualization.The goal is to uncover patterns in customer requests, technical issues, and support performancemetrics to recommend improvements in workflow and resource allocation.
 
-Measure team performance accurately.
-Identify delays and recurring issues.
-Optimize resource allocation.
-Improve customer satisfaction.
-This project addresses these challenges by using analytics to monitor performance, uncover patterns, and support better decision-making.
-
-### Dataset Description (Key Attributes Only) :
+### 3️⃣ Dataset Description (Key Attributes Only) :
 ---
 - Ticket_ID – Unique identifier for each support ticket
 - Day_of_Week – Day when the ticket was raised
@@ -32,7 +33,29 @@ This project addresses these challenges by using analytics to monitor performanc
 - Customer_Sentiment – Sentiment level of the customer
 - Priority – Priority level of the support ticket
 
-# Tool and technlogy used - 
-- Data cleaning - Pyhton , Power Query
-- Visualization - Power Bi 
-- Version Control - Github 
+### 4️⃣ Analysis Steps Followed
+- Performed data cleaning and preprocessing to ensure data quality and consistency.
+- Identified and handled missing, null, and inconsistent values appropriately.
+- Removed unnecessary white spaces and special characters to standardize textual data.
+- Conducted Exploratory Data Analysis (EDA) to uncover patterns, trends, and insights.
+
+### 5️⃣ Dashboard Details 
+--- 
+To be updated
+
+### 6️⃣ Key Insights
+--- 
+To be updated
+
+### 7️⃣ Tools and Technology Used 
+- Excel : Intial data inspection
+- Python : Used for data cleaning and Preprocessing
+- Pandas : Used for loading and handling the datasets
+- Version Control : Github
+- Visualization - Power Bi Visuals and Graphs
+- Power Query - Used For More Cleaning and Preprocessing
+
+
+### 8️⃣ Conclusion
+---
+
