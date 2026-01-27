@@ -1,14 +1,14 @@
 ### Optimizing IT Support Team Performance Using Analytics
 ---
 ### 📋 Table of Contents
-  1.Project Overview
-  2.Problem Statement
-  3.Dataset Description
-  4.Analysis Steps Followed
-  5.Dashboards Details
-  6.Key Insights
-  7.Tools and Technology Used 
-  8.Conclusion
+- Project Overview
+- Problem Statement
+- Dataset Description
+- Analysis Steps Followed
+- Dashboards Details
+- Key Insights
+- Tools and Technology Used 
+- Conclusion
 
 ---
 
