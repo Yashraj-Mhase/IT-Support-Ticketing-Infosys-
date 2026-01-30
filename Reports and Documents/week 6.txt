@@ -1,0 +1,57 @@
+28 january meeting 
+
+Types of data -- 
+- categorical -- explained
+- numerical -- explained
+- time series -- explained 
+
+What does type of data do - it decides the type of chart
+
+
+Charts and condition when used - 
+- bar chart -- categorical data 
+- - horizontal bar 
+- - vertical bar 
+- pie chart - categorical data(should have max 5 -6 category ) , sum total should be equal to 100 , avoid pie chart for very precise values
+- line graph -- for time series data
+
+
+Different types of views 
+- table view 
+- model view - we cannot connect tabels until they have a common column between them
+- report view 
+
+
+Type of keys 
+- primary key - unique , one , 
+- foreign key - created by primary key , multiple for wach table . 
+
+Study about model view
+
+
+29 jan meeting -- ( teaching about ) 
+
+- taught using figjam tool 
+- fact table - table containing metrics / name of columns  that helps to connect other tables with it ( references) 
+- dimensions table -- table that contains at least one common column from 
+- model view exploring 
+- example explained 
+- we can establish connection when at least one column is common between dimension table and fact table 
+- explained types of schema and modelling in model view 
+
+Types of connections --- 
+- many - represent as *
+- one - represent as 1 
+- many to one -- many customer of from fact table to one row in customer table 
+- one to many 
+- one to one
+- many to many
+
+Types of schema --
+- star schema 
+- snowflake schema 
+
+
+Task for review session -- 
+- primary key and foreign key explanation and understandings
+- theory questions 
