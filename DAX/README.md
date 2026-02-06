@@ -1,7 +1,5 @@
 # ⚡ DAX Calculations – Customer Support Ticket Analysis
 
----
-
 ## 🧠 What is DAX?
 
 **DAX (Data Analysis Expressions)** is the formula language used in Power BI to create intelligent calculations.
