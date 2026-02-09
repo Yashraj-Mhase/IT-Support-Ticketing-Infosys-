@@ -1,0 +1,23 @@
+# Week-1
+- Self Introduction
+-Explanation about project like Customers transaction issues that fetching customer details or  transaction of money is delay due to processing then it is a Ticket issue
+ so, Ticket is raised by Customer such as fetching amount is not convenient 
+- introduction to power bi
+  * ribbon
+  * Power Query
+  * Visual View
+  * Table View
+  * Model View
+- Extracting dataset from different websites
+- Data cleaning in power Query of Power bi
+  * Removing Duplicates
+  * In a column data is 80% then remaining is null then fill with aggregation
+  * Removing unnessary columns
+  * Standardizing each column
+  * Rearranging columns
+  * Replace values
+  * Removing White Spaces : Trim
+  * Removing Special characters : RV
+  * Delimeter :  To Split columns 
+
+# Task : Extract and Clean dataset in Power bi using Power Query

@@ -52,6 +52,8 @@ Types of schema --
 - snowflake schema 
 
 
-Task for review session -- 
-- primary key and foreign key explanation and understandings
-- theory questions 
+Task : find out which is primary and foreign key in fact and dimension table
+   -  A fact table doesnot contain single primary key, instead we use composite primary key , it is combination of
+      both customerid and productid.
+   -  Here customerid and productid  are columns in fact table refering to customerid of dimension table ,productid of
+      dimension table with respectively.
