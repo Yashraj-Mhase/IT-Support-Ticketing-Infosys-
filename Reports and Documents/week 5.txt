@@ -45,10 +45,11 @@ Relationship types: one-to-one, one-to-many, many-to-one, many-to-many
 
 Schema types: Star Schema and Snowflake Schema
 
-Explored data modeling using FigJam and Power BI Model View
+Explored data modeling in Power BI Model View
 
 ✅ Task Completed
 
 Identified primary and foreign keys in fact and dimension tables
 
 Understood the use of composite primary keys in fact tables
+
