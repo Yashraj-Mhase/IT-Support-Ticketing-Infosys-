@@ -1,8 +1,44 @@
-Week 1 – Project Understanding & Power BI Fundamentals
+Week 1 – Project Introduction & Power BI Basics
+🔹 Overview
 
-In the first week, we were introduced to the project domain based on customer transaction issues handled through ticketing systems.
-We learned the fundamentals of Power BI, including Ribbon, Power Query, Report View, Table View, and Model View. We also explored multiple data sources and practiced data extraction from online platforms.
-Using Power Query, we performed essential data cleaning tasks such as removing duplicates, handling missing values, eliminating unnecessary columns, standardizing data, trimming whitespaces, replacing values, and splitting columns using delimiters.
+Self introduction and project overview
+
+Understanding how customers raise tickets when transactions or balance fetching becomes inconvenient
+
+🔹 Power BI Introduction
+
+Ribbon
+
+Power Query
+
+Report View
+
+Table View
+
+Model View
+
+🔹 Data Collection
+
+Extracting datasets from different online sources
+
+🔹 Data Cleaning using Power Query
+
+Removing duplicate records
+
+Handling missing values (filling remaining nulls using aggregation where data availability is high)
+
+Removing unnecessary columns
+
+Rearranging columns
+
+Replacing values
+
+Removing white spaces using Trim
+
+Removing special characters using Replace Values
+
+Splitting columns using Delimiter
 
 ✅ Task Completed
+
 Extracted and cleaned datasets using Power BI Power Query
