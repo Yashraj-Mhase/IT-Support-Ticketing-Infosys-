@@ -1,59 +1,54 @@
-28 january meeting 
+Week 5 – Data Types, Data Modeling & Relationships
+🔹 Overview
 
-Types of data -- 
-- categorical -- explained
-- numerical -- explained
-- time series -- explained 
+In the fifth week, we focused on understanding types of data and their importance in analytics. We learned how data types influence chart selection and visualization logic in Power BI.
 
-What does type of data do - it decides the type of chart
+🔹 Types of Data & Visualization
 
+Categorical data
 
-Charts and condition when used - 
-- bar chart -- categorical data 
-- - horizontal bar 
-- - vertical bar 
-- pie chart - categorical data(should have max 5 -6 category ) , sum total should be equal to 100 , avoid pie chart for very precise values
-- line graph -- for time series data
+Numerical data
 
+Time-series data
 
-Different types of views 
-- table view 
-- model view - we cannot connect tabels until they have a common column between them
-- report view 
+Selection of appropriate charts:
 
+Bar charts (horizontal and vertical) for categorical data
 
-Type of keys 
-- primary key - unique , one , 
-- foreign key - created by primary key , multiple for wach table . 
+Pie charts for limited categorical values (5–6 categories, 100% total)
 
-Study about model view
+Line charts for time-series data
 
+🔹 Power BI Views
 
-29 jan meeting -- ( teaching about ) 
+Table View
 
-- taught using figjam tool 
-- fact table - table containing metrics / name of columns  that helps to connect other tables with it ( references) 
-- dimensions table -- table that contains at least one common column from 
-- model view exploring 
-- example explained 
-- we can establish connection when at least one column is common between dimension table and fact table 
-- explained types of schema and modelling in model view 
+Model View – understanding relationships between tables
 
-Types of connections --- 
-- many - represent as *
-- one - represent as 1 
-- many to one -- many customer of from fact table to one row in customer table 
-- one to many 
-- one to one
-- many to many
+Report View
 
-Types of schema --
-- star schema 
-- snowflake schema 
+🔹 Data Modeling Concepts
 
+Primary Key – unique identifier
 
-Task : find out which is primary and foreign key in fact and dimension table
-   -  A fact table doesnot contain single primary key, instead we use composite primary key , it is combination of
-      both customerid and productid.
-   -  Here customerid and productid  are columns in fact table refering to customerid of dimension table ,productid of
-      dimension table with respectively.
+Foreign Key – references primary key across tables
+
+Fact Tables – contain measurable metrics
+
+Dimension Tables – contain descriptive attributes
+
+Establishing relationships using common columns
+
+🔹 Relationships & Schema
+
+Relationship types: one-to-one, one-to-many, many-to-one, many-to-many
+
+Schema types: Star Schema and Snowflake Schema
+
+Explored data modeling using FigJam and Power BI Model View
+
+✅ Task Completed
+
+Identified primary and foreign keys in fact and dimension tables
+
+Understood the use of composite primary keys in fact tables
